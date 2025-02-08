@@ -119,5 +119,5 @@ Explanation: This step allows users to upload their handwritten digit image and 
 ## 🎯 Results & Accuracy
 The CNN model achieves an accuracy of **~98%** on the MNIST test dataset.
 
-![Model Test Accuracy](images/test_accuracy.png)
+![Model Test Accuracy](test_accuracy.png)
 
